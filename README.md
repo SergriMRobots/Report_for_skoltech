@@ -22,6 +22,7 @@ More about company: [Follow_this_link](http://mrobots.ru/)
 The team is small, consisting of young engineers, most of whom work at the RTK base, so there was only me and CEO Sergey Nikitin in the main office.
 
 *My workspace*
+
 <img src="https://raw.githubusercontent.com/SergriMRobots/Report_for_skoltech/main/pictures/my_workspace.png" width="500">
 
 
@@ -32,6 +33,7 @@ There were no strict rules or restrictions in the company, and I had a very flex
 Because Neurorobot is located in Moscow, I was invited to attend clinical trials of another of the company's products, the oncorobot, a robot for removing tumors using the photodynamic method.
 
 *Clinical tests*
+
 <img src="https://raw.githubusercontent.com/SergriMRobots/Report_for_skoltech/main/pictures/test_robot.png" width="500">
 
-<img src="https://raw.githubusercontent.com/SergriMRobots/Report_for_skoltech/main/pictures/tests.png" width="500">
+<img src="https://raw.githubusercontent.com/SergriMRobots/Report_for_skoltech/main/pictures/tests.png" height="500">
