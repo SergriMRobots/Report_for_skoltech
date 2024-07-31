@@ -17,4 +17,9 @@ The company was founded by a group of specialists from the Central Research Inst
 More about company: [Follow_this_link](http://mrobots.ru/)
 
 
-This com
+**My experience**
+
+The team is small, consisting of young engineers, most of whom work at the RTK base, so there was only me and CEO Sergey Nikitin in the main office.
+
+
+<img src="https://raw.githubusercontent.com/SergriMRobots/Report_for_skoltech/main/pictures/my_workspace.png" width="500" >
