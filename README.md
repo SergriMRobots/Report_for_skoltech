@@ -2,6 +2,7 @@
 
 *Some additions which not included in offical report*
 
+# **To be short: 10/10 I recommend this company for further cooperation**
 
 
 <img src="https://static.tildacdn.com/tild6366-6232-4433-a461-646332346562/logomrobot.png" width="500" >
@@ -40,4 +41,4 @@ Because Neurorobot is located in Moscow, I was invited to attend clinical trials
 
 
 
-#**I recommend this company for further cooperation**
+
