@@ -34,6 +34,7 @@ Because Neurorobot is located in Moscow, I was invited to attend clinical trials
 
 *Clinical tests*
 
-<img src="https://raw.githubusercontent.com/SergriMRobots/Report_for_skoltech/main/pictures/test_robot.png" width="500">
+<img src="https://raw.githubusercontent.com/SergriMRobots/Report_for_skoltech/main/pictures/test_robot.png" width="1000"> 
 
 <img src="https://raw.githubusercontent.com/SergriMRobots/Report_for_skoltech/main/pictures/tests.png" height="500">
+
