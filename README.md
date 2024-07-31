@@ -1,9 +1,9 @@
 **Report for skoltech 2024**
 # *For offical report (assignment) see report_sk.pdf*
 
-*Some additions which not included in offical report*
+## *Some additions which not included in offical report*
 
-# **To be short: 10/10 I recommend this company for further cooperation**
+### **To be short: 10/10 I recommend this company for further cooperation**
 
 
 <img src="https://static.tildacdn.com/tild6366-6232-4433-a461-646332346562/logomrobot.png" width="500" >
