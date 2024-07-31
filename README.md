@@ -38,3 +38,6 @@ Because Neurorobot is located in Moscow, I was invited to attend clinical trials
 
 <img src="https://raw.githubusercontent.com/SergriMRobots/Report_for_skoltech/main/pictures/tests.png" height="500">
 
+
+
+#**I recommend this company for further cooperation**
