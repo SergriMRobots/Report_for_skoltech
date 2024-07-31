@@ -11,7 +11,7 @@ The company was founded by a group of specialists from the Central Research Inst
 
 
 
-<img src="(https://upload.wikimedia.org/wikipedia/ru/6/66/%D0%A6%D0%9D%D0%98%D0%98_%D0%A0%D0%A2%D0%9A_%28%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0%29.gif" height="500" >
+<img src="https://upload.wikimedia.org/wikipedia/ru/6/66/%D0%A6%D0%9D%D0%98%D0%98_%D0%A0%D0%A2%D0%9A_%28%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0%29.gif" height="200" >
 
 
 More about company: [Follow_this_link](http://mrobots.ru/)
